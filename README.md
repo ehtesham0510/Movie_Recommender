@@ -1,5 +1,5 @@
 # Movie_Recommender
-# This content-based movie recommender is a personalized movie recommendation system that suggests movies based on the user's preferences and movie features. 
+## This content-based movie recommender is a personalized movie recommendation system that suggests movies based on the user's preferences and movie features. 
 # Finding the right movie to watch can be overwhelming in this age of abundant movie choices. The Content-Based Movie Recommender comes to the rescue by suggesting personalized movie recommendations based on the content features of the movies themselves. It analyzes the attributes of movies the user has liked in the past and suggests similar movies with comparable features.
 # The system recommends movies based on similarities in content features such as genre, cast, director, and plot summary. Users can provide their movie preferences to receive more accurate and personalized recommendations.
 # The Content-Based Movie Recommender employs a machine learning model that leverages cosine similarity to determine the similarity between movies based on their textual attributes. The model is trained on the movie features data and is used to suggest movies that closely match the user's preferences.
